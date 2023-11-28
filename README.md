@@ -1,6 +1,5 @@
 # CSCI-544-Project-Fall23-Group27
 <br>
-<br>
 <strong>University of Southern California - Thomas Lord Department of Computer Science</strong>
 <br>
 <br>
@@ -10,8 +9,8 @@
 Contributors:
 <br>
 <br>
-Arham Chouradiya
-Jehil Vora
-Pranav Parnerkar
-Saad Shaikh
+Arham Chouradiya<br>
+Jehil Vora<br>
+Pranav Parnerkar<br>
+Saad Shaikh<br>
 Sahil Mondal
