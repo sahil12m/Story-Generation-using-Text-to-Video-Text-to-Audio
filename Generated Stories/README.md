@@ -1,4 +1,4 @@
-This folder contains audio-visual stories that we have generated using our codebase. \
+This folder contains audio-visual stories that we have generated using our codebase.\
 
 Directory Structure:\
 
@@ -16,4 +16,4 @@ Generated Stories\
     .\
     .\
     .\
-    |\
+    |
